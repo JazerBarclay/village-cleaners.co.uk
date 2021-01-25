@@ -243,7 +243,7 @@ main {z-index: 0;}
 
 footer {display: grid; place-items: center; padding: 20px; background-color: var(--dark-color); color: var(--light-color);}
 
-footer small {line-height: 1.4em;}
+footer small {line-height: 1.4em; text-align: center;}
 
 section {width: 100%; padding: 70px 20px; box-sizing: border-box; text-align: center;}
 
